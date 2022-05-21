@@ -2,6 +2,68 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Ecommerce App Slider
+
+![1](https://user-images.githubusercontent.com/57535574/169645210-d071915f-9d7e-4590-afc8-ea87d071c500.jpg)
+
+## Categories
+
+![2](https://user-images.githubusercontent.com/57535574/169645253-08f6b8b4-6e7f-4ecd-97bf-794167099a6f.jpg)
+
+## Products
+
+![3](https://user-images.githubusercontent.com/57535574/169645260-25fb8fee-e97b-483d-926c-91b4289a963e.jpg)
+
+
+## Newsletter
+
+![4](https://user-images.githubusercontent.com/57535574/169645269-15619d95-072c-425c-a646-dd1034b70dee.jpg)
+
+## Footer
+
+![5](https://user-images.githubusercontent.com/57535574/169645277-9127e207-d22d-4deb-a160-1aee2a7ec7df.jpg)
+
+## Register
+
+![6](https://user-images.githubusercontent.com/57535574/169645286-64ac6095-50db-44bc-8162-7a7022ec596f.jpg)
+
+
+## Sign In
+
+![7](https://user-images.githubusercontent.com/57535574/169645295-5cf61102-244c-4275-a4c2-dc3babbd0da8.jpg)
+
+
+## Product Details
+
+![8](https://user-images.githubusercontent.com/57535574/169645312-a90a7a94-d423-4c58-ad1e-9e6a4b3f0fc1.jpg)
+
+## Cart
+
+![9](https://user-images.githubusercontent.com/57535574/169645319-776683cc-ed1e-4ecf-9a6f-2630b0f4ab22.jpg)
+
+ 
+## Items
+
+![10](https://user-images.githubusercontent.com/57535574/169645332-c735bdaf-747c-4ec1-ba26-2aa9e197c62b.jpg)
+
+
+## Items
+
+![11](https://user-images.githubusercontent.com/57535574/169645342-a5ec73a3-c9fc-4e92-8309-cbf716f8f167.jpg)
+
+## Designs
+
+![12](https://user-images.githubusercontent.com/57535574/169645350-e3baa714-6b65-4c33-92d5-3beb9a7478c0.jpg)
+
+
+## Slider
+
+![13](https://user-images.githubusercontent.com/57535574/169645361-da4a9a2f-d22e-4cfb-9e63-575444283358.jpg)
+
+
+## Categories
+
+![14](https://user-images.githubusercontent.com/57535574/169645372-3d7c328e-cc0e-42e0-956d-2d8af6f71ca7.jpg)
 
 
 ## Available Scripts
