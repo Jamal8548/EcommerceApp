@@ -42,16 +42,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![9](https://user-images.githubusercontent.com/57535574/169645319-776683cc-ed1e-4ecf-9a6f-2630b0f4ab22.jpg)
 
  
-## Items
+## Filters
 
 ![10](https://user-images.githubusercontent.com/57535574/169645332-c735bdaf-747c-4ec1-ba26-2aa9e197c62b.jpg)
 
 
-## Items
+## Filter selection
 
 ![11](https://user-images.githubusercontent.com/57535574/169645342-a5ec73a3-c9fc-4e92-8309-cbf716f8f167.jpg)
 
-## Designs
+## Filter results
 
 ![12](https://user-images.githubusercontent.com/57535574/169645350-e3baa714-6b65-4c33-92d5-3beb9a7478c0.jpg)
 
